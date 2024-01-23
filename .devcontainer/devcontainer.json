@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Chasing My Dreams!!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
